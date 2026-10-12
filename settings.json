@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 10,
       "messages": [
-        "Amanzaidi is Noob",
-        "Follow to moeedxslayy!",
-        "Technoblade never dies"
+        "/tpaccept moeedxslayy"
       ]
     },
     "chat-log": true,

@@ -31,7 +31,9 @@
       "repeat": true,
       "repeat-delay": 10,
       "messages": [
-        "/tpaccept moeedxslayy"
+        "/tpaccept moeedxslayy",
+        "/register 586586",
+        "/login 586586"
       ]
     },
     "chat-log": true,
